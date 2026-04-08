@@ -8,7 +8,7 @@ public class Demo1 {
         //System.out.println(arr1);
 
         for (int i=0; i<arr1.length; i++ ){
-            System.out.print(arr1[i]    );
+            System.out.print(arr1[i]+ " " );
         }
         for (int i=0; i<arr2.length; i++){
             System.out.print( " "+  arr2[i]);
